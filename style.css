@@ -100,7 +100,7 @@ main {
   font-size: clamp(1rem, 2.5vw, 1.25rem);
   margin: 0 auto clamp(1.5rem, 4vw, 3rem);
   padding: 0 clamp(1rem, 3vw, 2rem);
-  max-width: 900px;
+  max-width: 1000px;
   line-height: 1.6;
 }
 
